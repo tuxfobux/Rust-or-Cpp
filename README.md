@@ -7,8 +7,8 @@ Little research for school to compare the efficiency of Rust and C++. Coded thre
   <b>C++ vs Rust first algorithm</b>
 </p>
 <p align="center">
-  <img src="graphs/cpp1.png" width="440" height="330">
-  <img src="graphs/rust1.png" width="440" height="330">
+  <img src="graphs/cpp1.png" width="360" height="270">
+  <img src="graphs/rust1.png" width="360" height="270">
 </p>
 <p>
   Rust consumes 1MB less memory and executes the program 38% quicker.
@@ -18,8 +18,8 @@ Little research for school to compare the efficiency of Rust and C++. Coded thre
   <b>C++ vs Rust second algorithm</b>
 </p>
 <p align="center">
-  <img src="graphs/cpp2.png" width="440" height="330">
-  <img src="graphs/rust2.png" width="440" height="330">
+  <img src="graphs/cpp2.png" width="360" height="270">
+  <img src="graphs/rust2.png" width="360" height="270">
 </p>
 <p>
   Execution speed is around the same but C++ user more than double the amount of memory than Rust.
@@ -29,8 +29,8 @@ Little research for school to compare the efficiency of Rust and C++. Coded thre
   <b>C++ vs Rust third algorithm</b>
 </p>
 <p align="center">
-  <img src="graphs/cpp3.png" width="440" height="330">
-  <img src="graphs/rust3.png" width="440" height="330">
+  <img src="graphs/cpp3.png" width="360" height="270">
+  <img src="graphs/rust3.png" width="360" height="270">
 </p>
 <p>
   Similarly to previous algo, the speed is equal but Rust consumes two times less memory.
